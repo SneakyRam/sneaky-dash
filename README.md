@@ -1,20 +1,47 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+<img width="1200" height="475" alt="" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+# SneakyDash ⚡
+
+A fast, minimal game I built while learning how systems behave — both in code and in real-time interaction.
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## About
 
-View your app in AI Studio: https://ai.studio/apps/drive/1MI3oEmaFvXCFh9pYAlqV0eV0Jd02MdS9
+This started as me experimenting, but it turned into a small game where I could actually see how logic, timing, and interaction come together.
 
-## Run Locally
+I wanted something simple, but responsive.  
+Something that feels smooth when you play it.
 
-**Prerequisites:**  Node.js
+---
 
+## Gameplay
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- Quick, reactive gameplay  
+- Focus on timing and movement  
+- Designed to be simple, but not boring  
+
+---
+
+## Tech
+
+- JavaScript  
+- React  
+- Node.js  
+
+---
+
+## Run locally
+
+### Prerequisites
+- Node.js installed
+
+### Setup
+
+```bash
+npm install
+npm run dev
