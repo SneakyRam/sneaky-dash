@@ -3,8 +3,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@import '../../packages/ui/src/styles/fluid.css';
-
 body {
   margin: 0;
   padding: 0;
